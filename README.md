@@ -1,6 +1,6 @@
 # SOC
 A SOC built on a laptop with 8GB of RAM using Windows Server, Kali Linux, and Splunk.
-# mySOC: A Small SOC Built on a Laptop with 8GB of RAM
+# mySOC: A SOC Built on a Laptop with 8GB of RAM
 
 ## Problem
 Everyone says you need a powerful computer to practice cybersecurity. Mine has 8GB of RAM. Could I still build a working SOC (security operations center) at home?
