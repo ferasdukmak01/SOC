@@ -15,9 +15,9 @@ I built a SOC using three virtual computers on one laptop in VMware Workstation:
 - **Splunk:** widely used in SOC teams. It collects activity records and lets me search them like a search engine.
 
 ## What This Project Covers
-- Collecting Windows Security records into a SIEM (a tool that gathers and searches security activity)
-- Searching and filtering records to find specific activity
-- Planning memory across three virtual machines on 8GB of RAM
+- Collecting Windows Security records into a SIEM (a tool that gathers and searches security activity).
+- Searching and filtering records to find specific activity.
+- Planning memory across three virtual machines on 8GB of RAM.
 
 ## What I Learned
 - Limits force planning. With only 8GB to share, I had to decide how much memory each machine really needed.
@@ -25,11 +25,11 @@ I built a SOC using three virtual computers on one laptop in VMware Workstation:
 - Analysts look at specific details, like which machine and which source an event came from.
 
 ## What I'd Improve
-- Add Sysmon for much more detail on what the server is doing
-- Set up alerts so Splunk flags suspicious activity automatically
-- Build a dashboard to see activity at a glance
-- Add more machines as I get around the memory limit
-- Test attacks from Kali and write up how I spot them from the defender's side
+- Add Sysmon for much more detail on what the server is doing.
+- Set up alerts so Splunk flags suspicious activity automatically.
+- Build a dashboard to see activity at a glance.
+- Add more machines as I get around the memory limit.
+- Test attacks from Kali and write up how I spot them from the defender's side.
 
 ## Tools
 VMware Workstation · Windows Server 2022 · Active Directory · Kali Linux · Splunk · Markdown
