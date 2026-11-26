@@ -36,4 +36,5 @@ I built a SOC using three virtual computers on one laptop in VMware Workstation:
 ## Tools
 VMware Workstation · Windows Server 2022 · Active Directory · Kali Linux · Splunk · Markdown
 
-https://media.licdn.com/dms/image/v2/D5622AQFDDLKIWv9IEg/feedshare-shrink_480/B56aIPSQMXGgAc-/0/1795552774535?e=1797465600&v=beta&t=auqS4hq4eayyKGvPwxtgNN7sHK_Hp1y7Rr2S_nv9wGE
+<img src="[https://i.imgur.com/HWdjnOl.png](https://media.licdn.com/dms/image/v2/D5622AQFDDLKIWv9IEg/feedshare-shrink_480/B56aIPSQMXGgAc-/0/1795552774535?e=1797465600&v=beta&t=auqS4hq4eayyKGvPwxtgNN7sHK_Hp1y7Rr2S_nv9wGE) " alt="Lab Screenshot" style="max-width: 100%; height: auto;">
+
